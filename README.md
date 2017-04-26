@@ -7,7 +7,7 @@
 
 ## it was not a webpack issue!
 
-- if i file is not being imported it will not be a part of the resultant bundle. queue shock and surprise from everyone involved in debugging.
+- if a file is not being imported it will not be a part of the resultant bundle. queue shock and surprise from everyone involved in debugging.
 
 ## why did you create this repo?
 
