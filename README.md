@@ -8,7 +8,3 @@
 ## it was not a webpack issue!
 
 - nothing here yet
-
-## days since webpack issue
-
-0
